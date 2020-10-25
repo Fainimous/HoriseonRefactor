@@ -132,17 +132,7 @@ section {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -179,7 +169,7 @@ section {
     margin: 10px auto;
     max-width: 150px;
 }
-/* remove footer class and set styling for the footer element */
+/* Footer Styling */
 footer {
     padding: 30px;
     clear: both;
