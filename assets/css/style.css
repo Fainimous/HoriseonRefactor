@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
 }
+
 /* Set Body Background color */
 body {
     background-color: #d9dcd6;
@@ -81,9 +82,9 @@ section {
     margin-left: 20px;
 }
 
-/* Styling for Search-Engine-Optimization Article */
+/* Styling for all 3 Articles */
 
-.search-engine-optimization {
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -101,28 +102,6 @@ section {
     font-size: 36px;
 }
 
-/* Styling for online-reputation-management article */
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-
-
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -130,8 +109,6 @@ section {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
@@ -143,6 +120,7 @@ section {
     font-size: 36px;
 }
 
+/*Styles for the benefits aside*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
